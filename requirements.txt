@@ -1,0 +1,6 @@
+pymupdf
+python-docx
+pytesseract
+Pillow
+streamlit
+watchdog
